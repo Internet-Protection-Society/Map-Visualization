@@ -42,10 +42,9 @@
     "html-webpack-plugin": "^3.2.0"
   },
   "dependencies": {
-    "d3": "^5.15.0",
-    "react": "^16.5.0",
-    "react-dom": "^16.5.0",
-    "react-hot-loader": "^4.3.6"
+    "d3": "next",
+    "react": "next",
+    "react-dom": "next"
   },
   "resolutions": {
     "acorn": "^5.7.4",
