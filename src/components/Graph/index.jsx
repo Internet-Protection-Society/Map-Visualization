@@ -1,11 +1,6 @@
 import React from 'react';
 import * as d3 from 'd3';
 
-IxClickOut.dataTypes = {
-    children: dataTypes.any,
-    onClickOut: dataTypes.func,
-};
-
 export default ({ data }) => {
   const xScale = d3
     .scaleLinear()
