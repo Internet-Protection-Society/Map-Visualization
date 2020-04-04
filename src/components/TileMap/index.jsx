@@ -36,7 +36,8 @@ export default ({ mapHeight, mapWidth, data }) => {
             .attr('width', tileWidth)
             .attr('height', tileHeight)
             .attr('x', d => d.col * tileWidth)
-            .attr('y', d => d.row * tileHeight);
+            .attr('y', d => d.row * tileHeight)
+            .classed(styles['tile-map__tile'], true);
 
         return svg;
     };

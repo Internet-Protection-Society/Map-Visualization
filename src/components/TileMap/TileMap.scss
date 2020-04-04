@@ -1,8 +1,9 @@
 .tile-map {
   width: 100%;
   background: beige;
+}
 
-  &__content {
-    font-size: 24px;
-  }
+.tile-map__tile {
+  stroke: #FFF;
+  stroke-width: 4;
 }
