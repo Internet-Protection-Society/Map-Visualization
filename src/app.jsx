@@ -2,7 +2,7 @@ import React from 'react';
 import TileMap from 'Components/TileMap';
 
 import style from './app.css';
-import data from './data/data.js';
+import data from './assets/data';
 
 const App = () => (
   <div className={style.app}>
