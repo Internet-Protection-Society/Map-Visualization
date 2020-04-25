@@ -1,7 +1,8 @@
 export default [
   {
     region: 'Алтайский край',
-    district: 'Сибирский федеральный округ',
+    district: 'Сибирский федеральный округ', 
+    id_reg:'RU-ALT', 
     district_short: 'СФО',
     region_alt_rus: 'Ал. к.',
     region_eng: 'ALK',
@@ -11,7 +12,8 @@ export default [
   },
   {
     region: 'Амурская область',
-    district: 'Дальневосточный федеральный округ',
+    district: 'Дальневосточный федеральный округ', 
+    id_reg:'RU-AMU',
     district_short: 'ДФО',
     region_alt_rus: 'Амур',
     region_eng: 'AMU',
@@ -21,7 +23,8 @@ export default [
   },
   {
     region: 'Архангельская область',
-    district: 'Северо-Западный федеральный округ',
+    district: 'Северо-Западный федеральный округ', 
+    id_reg:'RU-ARK',
     district_short: 'СЗФО',
     region_alt_rus: 'Арх',
     region_eng: 'ARH',
@@ -31,7 +34,8 @@ export default [
   },
   {
     region: 'Астраханская область',
-    district: 'Южный федеральный округ',
+    district: 'Южный федеральный округ', 
+    id_reg:'RU-AST',
     district_short: 'ЮФО',
     region_alt_rus: 'Аст',
     region_eng: 'AST',
@@ -41,7 +45,8 @@ export default [
   },
   {
     region: 'Белгородская область',
-    district: 'Центральный федеральный округ',
+    district: 'Центральный федеральный округ', 
+    id_reg:'RU-BEL',
     district_short: 'ЦФО',
     region_alt_rus: 'Бел',
     region_eng: 'BEL',
@@ -51,7 +56,8 @@ export default [
   },
   {
     region: 'Брянская область',
-    district: 'Центральный федеральный округ',
+    district: 'Центральный федеральный округ', 
+    id_reg:'RU-BRY',
     district_short: 'ЦФО',
     region_alt_rus: 'Бря',
     region_eng: 'BRN',
@@ -61,7 +67,8 @@ export default [
   },
   {
     region: 'Владимирская область',
-    district: 'Центральный федеральный округ',
+    district: 'Центральный федеральный округ', 
+    id_reg:'RU-VLA',
     district_short: 'ЦФО',
     region_alt_rus: 'Вла',
     region_eng: 'VLA',
@@ -71,7 +78,8 @@ export default [
   },
   {
     region: 'Волгоградская область',
-    district: 'Южный федеральный округ',
+    district: 'Южный федеральный округ', 
+    id_reg:'RU-VGG',
     district_short: 'ЮФО',
     region_alt_rus: 'Волг',
     region_eng: 'VGG',
@@ -81,7 +89,7 @@ export default [
   },
   {
     region: 'Вологодская область',
-    district: 'Северо-Западный федеральный округ',
+    district: 'Северо-Западный федеральный округ', id_reg:'RU-VLG',
     district_short: 'СЗФО',
     region_alt_rus: 'Воло',
     region_eng: 'VGD',
@@ -91,7 +99,8 @@ export default [
   },
   {
     region: 'Воронежская область',
-    district: 'Центральный федеральный округ',
+    district: 'Центральный федеральный округ', 
+    id_reg:'RU-VOR',
     district_short: 'ЦФО',
     region_alt_rus: 'Вор',
     region_eng: 'VRN',
@@ -101,7 +110,7 @@ export default [
   },
   {
     region: 'Еврейская автономная область',
-    district: 'Дальневосточный федеральный округ',
+    district: 'Дальневосточный федеральный округ', id_reg:'RU-YEV',
     district_short: 'ДФО',
     region_alt_rus: 'Евр',
     region_eng: 'YEV',
@@ -111,7 +120,8 @@ export default [
   },
   {
     region: 'Забайкальский край',
-    district: 'Сибирский федеральный округ',
+    district: 'Сибирский федеральный округ', 
+    id_reg:'RU-ZAB',
     district_short: 'СФО',
     region_alt_rus: 'Заб',
     region_eng: 'ZAB',
@@ -121,7 +131,8 @@ export default [
   },
   {
     region: 'Ивановская область',
-    district: 'Центральный федеральный округ',
+    district: 'Центральный федеральный округ', 
+    id_reg:'RU-IVA',
     district_short: 'ЦФО',
     region_alt_rus: 'Ива',
     region_eng: 'IVA',
@@ -131,7 +142,8 @@ export default [
   },
   {
     region: 'Иркутская область',
-    district: 'Сибирский федеральный округ',
+    district: 'Сибирский федеральный округ', 
+    id_reg:'RU-IRK',
     district_short: 'СФО',
     region_alt_rus: 'Ирк',
     region_eng: 'IRK',
@@ -141,7 +153,7 @@ export default [
   },
   {
     region: 'Кабардино-Балкарская Республика',
-    district: 'Северо-Кавказский федеральный округ',
+    district: 'Северо-Кавказский федеральный округ', id_reg:'RU-KB',
     district_short: 'СКФО',
     region_alt_rus: 'Каб',
     region_eng: 'KBR',
@@ -151,7 +163,7 @@ export default [
   },
   {
     region: 'Калининградская область',
-    district: 'Северо-Западный федеральный округ',
+    district: 'Северо-Западный федеральный округ', id_reg:'RU-KGD',
     district_short: 'СЗФО',
     region_alt_rus: 'Кали',
     region_eng: 'KLN',
@@ -161,7 +173,8 @@ export default [
   },
   {
     region: 'Калужская область',
-    district: 'Центральный федеральный округ',
+    district: 'Центральный федеральный округ', 
+    id_reg:'RU-KLU',
     district_short: 'ЦФО',
     region_alt_rus: 'Калу',
     region_eng: 'KLG',
@@ -171,7 +184,7 @@ export default [
   },
   {
     region: 'Камчатский край',
-    district: 'Дальневосточный федеральный округ',
+    district: 'Дальневосточный федеральный округ', id_reg:'RU-KAM',
     district_short: 'ДФО',
     region_alt_rus: 'Кам',
     region_eng: 'KAM',
@@ -181,7 +194,7 @@ export default [
   },
   {
     region: 'Карачаево-Черкесская Республика',
-    district: 'Северо-Кавказский федеральный округ',
+    district: 'Северо-Кавказский федеральный округ', id_reg:'RU-KCH',
     district_short: 'СКФО',
     region_alt_rus: 'Кара',
     region_eng: 'KCH',
@@ -191,7 +204,8 @@ export default [
   },
   {
     region: 'Кемеровская область',
-    district: 'Сибирский федеральный округ',
+    district: 'Сибирский федеральный округ', 
+    id_reg:'RU-KEM',
     district_short: 'СФО',
     region_alt_rus: 'Кем',
     region_eng: 'KEM',
@@ -201,7 +215,8 @@ export default [
   },
   {
     region: 'Кировская область',
-    district: 'Приволжский федеральный округ',
+    district: 'Приволжский федеральный округ', 
+    id_reg:'RU-KIR',
     district_short: 'ПФО',
     region_alt_rus: 'Кир',
     region_eng: 'KIR',
@@ -211,7 +226,8 @@ export default [
   },
   {
     region: 'Костромская область',
-    district: 'Центральный федеральный округ',
+    district: 'Центральный федеральный округ', 
+    id_reg:'RU-KOS',
     district_short: 'ЦФО',
     region_alt_rus: 'Кос',
     region_eng: 'KOS',
@@ -221,7 +237,8 @@ export default [
   },
   {
     region: 'Краснодарский край',
-    district: 'Южный федеральный округ',
+    district: 'Южный федеральный округ', 
+    id_reg:'RU-KDA',
     district_short: 'ЮФО',
     region_alt_rus: 'Крдр',
     region_eng: 'KRD',
@@ -231,7 +248,8 @@ export default [
   },
   {
     region: 'Красноярский край',
-    district: 'Сибирский федеральный округ',
+    district: 'Сибирский федеральный округ', 
+    id_reg:'RU-KYA',
     district_short: 'СФО',
     region_alt_rus: 'Крас',
     region_eng: 'KRN',
@@ -241,7 +259,8 @@ export default [
   },
   {
     region: 'Курганская область',
-    district: 'Уральский федеральный округ',
+    district: 'Уральский федеральный округ', 
+    id_reg:'RU-KGN',
     district_short: 'УФО',
     region_alt_rus: 'Кург',
     region_eng: 'KRG',
@@ -251,7 +270,8 @@ export default [
   },
   {
     region: 'Курская область',
-    district: 'Центральный федеральный округ',
+    district: 'Центральный федеральный округ', 
+    id_reg:'RU-KRS',
     district_short: 'ЦФО',
     region_alt_rus: 'Курск',
     region_eng: 'KSK',
@@ -261,7 +281,7 @@ export default [
   },
   {
     region: 'Ленинградская область',
-    district: 'Северо-Западный федеральный округ',
+    district: 'Северо-Западный федеральный округ', id_reg:'RU-LEN',
     district_short: 'СЗФО',
     region_alt_rus: 'Лен',
     region_eng: 'LEN',
@@ -271,7 +291,8 @@ export default [
   },
   {
     region: 'Липецкая область',
-    district: 'Центральный федеральный округ',
+    district: 'Центральный федеральный округ', 
+    id_reg:'RU-LIP',
     district_short: 'ЦФО',
     region_alt_rus: 'Лип',
     region_eng: 'LIP',
@@ -281,7 +302,7 @@ export default [
   },
   {
     region: 'Магаданская область',
-    district: 'Дальневосточный федеральный округ',
+    district: 'Дальневосточный федеральный округ', id_reg:'RU-MAG',
     district_short: 'ДФО',
     region_alt_rus: 'Маг',
     region_eng: 'MAG',
@@ -291,7 +312,8 @@ export default [
   },
   {
     region: 'Москва',
-    district: 'Центральный федеральный округ',
+    district: 'Центральный федеральный округ', 
+    id_reg:'RU-MOW',
     district_short: 'ЦФО',
     region_alt_rus: 'Мск',
     region_eng: 'MSK',
@@ -301,7 +323,8 @@ export default [
   },
   {
     region: 'Московская область',
-    district: 'Центральный федеральный округ',
+    district: 'Центральный федеральный округ', 
+    id_reg:'RU-MOS',
     district_short: 'ЦФО',
     region_alt_rus: 'Мос',
     region_eng: 'MOB',
@@ -311,7 +334,7 @@ export default [
   },
   {
     region: 'Мурманская область',
-    district: 'Северо-Западный федеральный округ',
+    district: 'Северо-Западный федеральный округ', id_reg:'RU-MUR',
     district_short: 'СЗФО',
     region_alt_rus: 'Мур',
     region_eng: 'MUR',
@@ -320,8 +343,8 @@ export default [
     row: '0',
   },
   {
-    region: 'Ненецкий автономный округ',
-    district: 'Северо-Западный федеральный округ',
+    region: 'Ненецкий автономный округ', 
+    district: 'Северо-Западный федеральный округ', id_reg:'RU-NEN',
     district_short: 'СЗФО',
     region_alt_rus: 'Нен',
     region_eng: 'NEN',
@@ -331,7 +354,8 @@ export default [
   },
   {
     region: 'Нижегородская область',
-    district: 'Приволжский федеральный округ',
+    district: 'Приволжский федеральный округ', 
+    id_reg:'RU-NIZ',
     district_short: 'ПФО',
     region_alt_rus: 'Ниж',
     region_eng: 'NIZ',
@@ -341,7 +365,7 @@ export default [
   },
   {
     region: 'Новгородская область',
-    district: 'Северо-Западный федеральный округ',
+    district: 'Северо-Западный федеральный округ', id_reg:'RU-NGR',
     district_short: 'СЗФО',
     region_alt_rus: 'Новг',
     region_eng: 'NVG',
@@ -351,7 +375,8 @@ export default [
   },
   {
     region: 'Новосибирская область',
-    district: 'Сибирский федеральный округ',
+    district: 'Сибирский федеральный округ', 
+    id_reg:'RU-NVS',
     district_short: 'СФО',
     region_alt_rus: 'Ново',
     region_eng: 'NSK',
@@ -361,7 +386,8 @@ export default [
   },
   {
     region: 'Омская область',
-    district: 'Сибирский федеральный округ',
+    district: 'Сибирский федеральный округ', 
+    id_reg:'RU-OMS',
     district_short: 'СФО',
     region_alt_rus: 'Омск',
     region_eng: 'OMS',
@@ -371,7 +397,8 @@ export default [
   },
   {
     region: 'Оренбургская область',
-    district: 'Приволжский федеральный округ',
+    district: 'Приволжский федеральный округ', 
+    id_reg:'RU-ORE',
     district_short: 'ПФО',
     region_alt_rus: 'Орен',
     region_eng: 'ORE',
@@ -381,7 +408,8 @@ export default [
   },
   {
     region: 'Орловская область',
-    district: 'Центральный федеральный округ',
+    district: 'Центральный федеральный округ', 
+    id_reg:'RU-ORL',
     district_short: 'ЦФО',
     region_alt_rus: 'Орёл',
     region_eng: 'ORL',
@@ -391,7 +419,8 @@ export default [
   },
   {
     region: 'Пензенская область',
-    district: 'Приволжский федеральный округ',
+    district: 'Приволжский федеральный округ', 
+    id_reg:'RU-PNZ',
     district_short: 'ПФО',
     region_alt_rus: 'Пен',
     region_eng: 'PNZ',
@@ -401,7 +430,8 @@ export default [
   },
   {
     region: 'Пермский край',
-    district: 'Приволжский федеральный округ',
+    district: 'Приволжский федеральный округ', 
+    id_reg:'RU-PER',
     district_short: 'ПФО',
     region_alt_rus: 'Пер',
     region_eng: 'PER',
@@ -411,7 +441,7 @@ export default [
   },
   {
     region: 'Приморский край',
-    district: 'Дальневосточный федеральный округ',
+    district: 'Дальневосточный федеральный округ', id_reg:'RU-PRI',
     district_short: 'ДФО',
     region_alt_rus: 'При',
     region_eng: 'PRI',
@@ -421,7 +451,7 @@ export default [
   },
   {
     region: 'Псковская область',
-    district: 'Северо-Западный федеральный округ',
+    district: 'Северо-Западный федеральный округ', id_reg:'RU-PSK',
     district_short: 'СЗФО',
     region_alt_rus: 'Пск',
     region_eng: 'PSK',
@@ -431,7 +461,8 @@ export default [
   },
   {
     region: 'Республика Адыгея',
-    district: 'Южный федеральный округ',
+    district: 'Южный федеральный округ', 
+    id_reg:'RU-AD',
     district_short: 'ЮФО',
     region_alt_rus: 'Адыг',
     region_eng: 'ADG',
@@ -441,7 +472,8 @@ export default [
   },
   {
     region: 'Республика Алтай',
-    district: 'Сибирский федеральный округ',
+    district: 'Сибирский федеральный округ', 
+    id_reg:'RU-AL',
     district_short: 'СФО',
     region_alt_rus: 'Алт',
     region_eng: 'ALR',
@@ -451,7 +483,8 @@ export default [
   },
   {
     region: 'Республика Башкортостан',
-    district: 'Приволжский федеральный округ',
+    district: 'Приволжский федеральный округ', 
+    id_reg:'RU-BA',
     district_short: 'ПФО',
     region_alt_rus: 'Бшк',
     region_eng: 'BAS',
@@ -461,7 +494,8 @@ export default [
   },
   {
     region: 'Республика Бурятия',
-    district: 'Сибирский федеральный округ',
+    district: 'Сибирский федеральный округ', 
+    id_reg:'RU-BU',
     district_short: 'СФО',
     region_alt_rus: 'Бур',
     region_eng: 'BUR',
@@ -471,7 +505,7 @@ export default [
   },
   {
     region: 'Республика Дагестан',
-    district: 'Северо-Кавказский федеральный округ',
+    district: 'Северо-Кавказский федеральный округ', id_reg:'RU-DA',
     district_short: 'СКФО',
     region_alt_rus: 'Даг',
     region_eng: 'DAG',
@@ -481,7 +515,7 @@ export default [
   },
   {
     region: 'Республика Ингушетия',
-    district: 'Северо-Кавказский федеральный округ',
+    district: 'Северо-Кавказский федеральный округ', id_reg:'RU-IN',
     district_short: 'СКФО',
     region_alt_rus: 'Инг',
     region_eng: 'ING',
@@ -491,7 +525,8 @@ export default [
   },
   {
     region: 'Республика Калмыкия',
-    district: 'Южный федеральный округ',
+    district: 'Южный федеральный округ', 
+    id_reg:'RU-KLM',
     district_short: 'ЮФО',
     region_alt_rus: 'Калм',
     region_eng: 'KLM',
@@ -501,7 +536,7 @@ export default [
   },
   {
     region: 'Республика Карелия',
-    district: 'Северо-Западный федеральный округ',
+    district: 'Северо-Западный федеральный округ', id_reg:'RU-KR',
     district_short: 'СЗФО',
     region_alt_rus: 'Кар',
     region_eng: 'KRL',
@@ -511,7 +546,7 @@ export default [
   },
   {
     region: 'Республика Коми',
-    district: 'Северо-Западный федеральный округ',
+    district: 'Северо-Западный федеральный округ', id_reg:'RU-KO',
     district_short: 'СЗФО',
     region_alt_rus: 'Коми',
     region_eng: 'KOM',
@@ -521,7 +556,8 @@ export default [
   },
   {
     region: 'Республика Крым',
-    district: 'Южный федеральный округ',
+    district: 'Южный федеральный округ', 
+    id_reg:'RU-CR',
     district_short: 'ЮФО',
     region_alt_rus: 'Крым',
     region_eng: 'KRM',
@@ -531,7 +567,8 @@ export default [
   },
   {
     region: 'Республика Марий Эл',
-    district: 'Приволжский федеральный округ',
+    district: 'Приволжский федеральный округ', 
+    id_reg:'RU-ME',
     district_short: 'ПФО',
     region_alt_rus: 'Мари',
     region_eng: 'MAR',
@@ -541,7 +578,8 @@ export default [
   },
   {
     region: 'Республика Мордовия',
-    district: 'Приволжский федеральный округ',
+    district: 'Приволжский федеральный округ', 
+    id_reg:'RU-MO',
     district_short: 'ПФО',
     region_alt_rus: 'Мор',
     region_eng: 'MOR',
@@ -551,7 +589,7 @@ export default [
   },
   {
     region: 'Республика Саха (Якутия)',
-    district: 'Дальневосточный федеральный округ',
+    district: 'Дальневосточный федеральный округ', id_reg:'RU-SA',
     district_short: 'ДФО',
     region_alt_rus: 'Саха',
     region_eng: 'SAH',
@@ -561,7 +599,7 @@ export default [
   },
   {
     region: 'Республика Северная Осетия — Алания',
-    district: 'Северо-Кавказский федеральный округ',
+    district: 'Северо-Кавказский федеральный округ', id_reg:'RU-SE',
     district_short: 'СКФО',
     region_alt_rus: 'Осeт',
     region_eng: 'OSE',
@@ -571,7 +609,8 @@ export default [
   },
   {
     region: 'Республика Татарстан',
-    district: 'Приволжский федеральный округ',
+    district: 'Приволжский федеральный округ', 
+    id_reg:'RU-TA',
     district_short: 'ПФО',
     region_alt_rus: 'Тат',
     region_eng: 'TAT',
@@ -581,7 +620,8 @@ export default [
   },
   {
     region: 'Республика Тыва',
-    district: 'Сибирский федеральный округ',
+    district: 'Сибирский федеральный округ', 
+    id_reg:'RU-TY',
     district_short: 'СФО',
     region_alt_rus: 'Тыва',
     region_eng: 'TYV',
@@ -591,7 +631,8 @@ export default [
   },
   {
     region: 'Республика Хакасия',
-    district: 'Сибирский федеральный округ',
+    district: 'Сибирский федеральный округ', 
+    id_reg:'RU-KK',
     district_short: 'СФО',
     region_alt_rus: 'Хак',
     region_eng: 'HAK',
@@ -601,7 +642,8 @@ export default [
   },
   {
     region: 'Ростовская область',
-    district: 'Южный федеральный округ',
+    district: 'Южный федеральный округ', 
+    id_reg:'RU-ROS',
     district_short: 'ЮФО',
     region_alt_rus: 'Рос',
     region_eng: 'RST',
@@ -611,7 +653,8 @@ export default [
   },
   {
     region: 'Рязанская область',
-    district: 'Центральный федеральный округ',
+    district: 'Центральный федеральный округ', 
+    id_reg:'RU-RYA',
     district_short: 'ЦФО',
     region_alt_rus: 'Ряз',
     region_eng: 'RZN',
@@ -621,7 +664,8 @@ export default [
   },
   {
     region: 'Самарская область',
-    district: 'Приволжский федеральный округ',
+    district: 'Приволжский федеральный округ', 
+    id_reg:'RU-SAM',
     district_short: 'ПФО',
     region_alt_rus: 'Сам',
     region_eng: 'SAM',
@@ -631,7 +675,7 @@ export default [
   },
   {
     region: 'Санкт-Петербург',
-    district: 'Северо-Западный федеральный округ',
+    district: 'Северо-Западный федеральный округ', id_reg:'RU-SPE',
     district_short: 'СЗФО',
     region_alt_rus: 'Спб',
     region_eng: 'SPB',
@@ -641,7 +685,8 @@ export default [
   },
   {
     region: 'Саратовская область',
-    district: 'Приволжский федеральный округ',
+    district: 'Приволжский федеральный округ', 
+    id_reg:'RU-SAR',
     district_short: 'ПФО',
     region_alt_rus: 'Сар',
     region_eng: 'SAR',
@@ -651,7 +696,7 @@ export default [
   },
   {
     region: 'Сахалинская область',
-    district: 'Дальневосточный федеральный округ',
+    district: 'Дальневосточный федеральный округ', id_reg:'RU-SAK',
     district_short: 'ДФО',
     region_alt_rus: 'Схлн',
     region_eng: 'SHL',
@@ -661,7 +706,8 @@ export default [
   },
   {
     region: 'Cевастополь',
-    district: 'Южный федеральный округ',
+    district: 'Южный федеральный округ', 
+    id_reg:'RU-SEV',
     district_short: 'ЮФО',
     region_alt_rus: 'Сев',
     region_eng: 'SEV',
@@ -671,7 +717,8 @@ export default [
   },
   {
     region: 'Свердловская область',
-    district: 'Уральский федеральный округ',
+    district: 'Уральский федеральный округ', 
+    id_reg:'RU-SVE',
     district_short: 'УФО',
     region_alt_rus: 'Свер',
     region_eng: 'SVE',
@@ -681,7 +728,8 @@ export default [
   },
   {
     region: 'Смоленская область',
-    district: 'Центральный федеральный округ',
+    district: 'Центральный федеральный округ', 
+    id_reg:'RU-SMO',
     district_short: 'ЦФО',
     region_alt_rus: 'Смол',
     region_eng: 'SMO',
@@ -691,7 +739,7 @@ export default [
   },
   {
     region: 'Ставропольский край',
-    district: 'Северо-Кавказский федеральный округ',
+    district: 'Северо-Кавказский федеральный округ', id_reg:'RU-STA',
     district_short: 'СКФО',
     region_alt_rus: 'Став',
     region_eng: 'STV',
@@ -701,7 +749,8 @@ export default [
   },
   {
     region: 'Тамбовская область',
-    district: 'Центральный федеральный округ',
+    district: 'Центральный федеральный округ', 
+    id_reg:'RU-TAM',
     district_short: 'ЦФО',
     region_alt_rus: 'Там',
     region_eng: 'TMB',
@@ -711,7 +760,8 @@ export default [
   },
   {
     region: 'Тверская область',
-    district: 'Центральный федеральный округ',
+    district: 'Центральный федеральный округ', 
+    id_reg:'RU-TVE',
     district_short: 'ЦФО',
     region_alt_rus: 'Твeр',
     region_eng: 'TVE',
@@ -721,7 +771,8 @@ export default [
   },
   {
     region: 'Томская область',
-    district: 'Сибирский федеральный округ',
+    district: 'Сибирский федеральный округ', 
+    id_reg:'RU-TOM',
     district_short: 'СФО',
     region_alt_rus: 'Томск',
     region_eng: 'TOM',
@@ -731,7 +782,8 @@ export default [
   },
   {
     region: 'Тульская область',
-    district: 'Центральный федеральный округ',
+    district: 'Центральный федеральный округ', 
+    id_reg:'RU-TUL',
     district_short: 'ЦФО',
     region_alt_rus: 'Тул',
     region_eng: 'TUL',
@@ -741,7 +793,8 @@ export default [
   },
   {
     region: 'Тюменская область',
-    district: 'Уральский федеральный округ',
+    district: 'Уральский федеральный округ', 
+    id_reg:'RU-TYU',
     district_short: 'УФО',
     region_alt_rus: 'Тюм',
     region_eng: 'TMN',
@@ -751,7 +804,8 @@ export default [
   },
   {
     region: 'Удмуртская Республика',
-    district: 'Приволжский федеральный округ',
+    district: 'Приволжский федеральный округ', 
+    id_reg:'RU-UD',
     district_short: 'ПФО',
     region_alt_rus: 'Удм',
     region_eng: 'UDM',
@@ -761,7 +815,8 @@ export default [
   },
   {
     region: 'Ульяновская область',
-    district: 'Приволжский федеральный округ',
+    district: 'Приволжский федеральный округ', 
+    id_reg:'RU-ULY',
     district_short: 'ПФО',
     region_alt_rus: 'Уль',
     region_eng: 'ULN',
@@ -771,7 +826,7 @@ export default [
   },
   {
     region: 'Хабаровский край',
-    district: 'Дальневосточный федеральный округ',
+    district: 'Дальневосточный федеральный округ', id_reg:'RU-KHA',
     district_short: 'ДФО',
     region_alt_rus: 'Хаб',
     region_eng: 'HAB',
@@ -781,7 +836,8 @@ export default [
   },
   {
     region: 'Ханты-Мансийский автономный округ — Югра',
-    district: 'Уральский федеральный округ',
+    district: 'Уральский федеральный округ', 
+    id_reg:'RU-KHM',
     district_short: 'УФО',
     region_alt_rus: 'Хан',
     region_eng: 'HAN',
@@ -791,7 +847,8 @@ export default [
   },
   {
     region: 'Челябинская область',
-    district: 'Уральский федеральный округ',
+    district: 'Уральский федеральный округ', 
+    id_reg:'RU-CHE',
     district_short: 'УФО',
     region_alt_rus: 'Чел',
     region_eng: 'CHL',
@@ -801,7 +858,7 @@ export default [
   },
   {
     region: 'Чеченская Республика',
-    district: 'Северо-Кавказский федеральный округ',
+    district: 'Северо-Кавказский федеральный округ', id_reg:'RU-CE',
     district_short: 'СКФО',
     region_alt_rus: 'Чеч',
     region_eng: 'CEC',
@@ -811,7 +868,8 @@ export default [
   },
   {
     region: 'Чувашская Республика',
-    district: 'Приволжский федеральный округ',
+    district: 'Приволжский федеральный округ', 
+    id_reg:'RU-CU',
     district_short: 'ПФО',
     region_alt_rus: 'Чув',
     region_eng: 'CHV',
@@ -820,8 +878,8 @@ export default [
     row: '4',
   },
   {
-    region: 'Чукотский автономный округ',
-    district: 'Дальневосточный федеральный округ',
+    region: 'Чукотский автономный округ', 
+    district: 'Дальневосточный федеральный округ', id_reg:'RU-CHK',
     district_short: 'ДФО',
     region_alt_rus: 'Чук',
     region_eng: 'CHK',
@@ -830,8 +888,9 @@ export default [
     row: '1',
   },
   {
-    region: 'Ямало-Ненецкий автономный округ',
-    district: 'Уральский федеральный округ',
+    region: 'Ямало-Ненецкий автономный округ', 
+    district: 'Уральский федеральный округ', 
+    id_reg:'RU-YAM',
     district_short: 'УФО',
     region_alt_rus: 'Ямал',
     region_eng: 'YAM',
@@ -841,7 +900,8 @@ export default [
   },
   {
     region: 'Ярославская область',
-    district: 'Центральный федеральный округ',
+    district: 'Центральный федеральный округ', 
+    id_reg:'RU-YAR',
     district_short: 'ЦФО',
     region_alt_rus: 'Яро',
     region_eng: 'YAR',
