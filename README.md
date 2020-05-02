@@ -27,3 +27,9 @@ Most issues can be fixed by calling came command with `--fix` key
 To avoid pre commit checks use `--no-verify` key, e.g.
 
 <pre><code>git commit -m "commit msg" --no-verify</code></pre>
+
+## Testing
+
+<pre>
+  <code>npm test</code>
+</pre>
