@@ -1,5 +1,26 @@
-.app {
-  color: blue;
-  font-size: 2rem;
-  text-align: center;
+@font-face {
+  font-family: "Roboto Slab";
+  src: url("./assets/fonts/roboto-slab/RobotoSlab-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
 }
+
+@font-face {
+  font-family: "Roboto Slab";
+  src: url("./assets/fonts/roboto-slab/RobotoSlab-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Roboto Slab";
+  src: url("./assets/fonts/roboto-slab/RobotoSlab-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
+
+.app {
+  font-family: "Roboto Slab", sans-serif;
+  font-size: 16px;
+}
+
