@@ -47,7 +47,7 @@
     "webpack-merge": "^4.1.4"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "d3": "next",
     "prop-types": "^15.7.2",
     "react": "next",
